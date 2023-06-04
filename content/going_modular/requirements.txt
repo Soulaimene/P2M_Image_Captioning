@@ -1,0 +1,5 @@
+transformers
+transformers accelerate
+torchinfo
+datasets
+rouge_score
