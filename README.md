@@ -7,6 +7,7 @@ This project aims to generate captions for images using a pre-trained image capt
 - Integration with the COCO dataset for training and evaluation.
 - Option to set the number of data for training.
 - Evaluation metric includes the ROUGE score for caption quality assessment.
+- Data visualization using Python script `visualize.py`
 - Detailed examples and usage instructions are provided in the documentation.
 
 ## Model Deployment
