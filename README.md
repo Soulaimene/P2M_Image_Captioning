@@ -1,7 +1,7 @@
 # P2M_Image_Captioning
 This project aims to generate captions for images using a pre-trained image captioning model. The model used in this project is based on the VisionEncoderDecoderModel from the Hugging Face transformers library and specifically uses the ViT-GPT2 architecture.
 
-##Features
+## Features
 - Utilizes the GPT-2 language model and ViT for image caption generation.
 - Pretrained weights for GPT-2 and ViT are used to initialize the model.
 - Integration with the COCO dataset for training and evaluation.
