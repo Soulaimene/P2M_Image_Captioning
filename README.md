@@ -23,14 +23,14 @@ The trained model has been deployed using Gradio and Hugging Face's model hostin
 - Clone the repository:
 
 ```bash
-Copy code
-git clone [https://github.com/your-username/image-captioning.git](https://github.com/Soulaimene/P2M_Image_Captioning.git)
+
+git clone https://github.com/Soulaimene/P2M_Image_Captioning.git
 ```
 
 - Install the required dependencies:
 
 ```bash
-Copy code
+
 pip install -r content/going_modular/requirements.txt
 ```
 
